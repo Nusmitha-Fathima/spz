@@ -1,0 +1,11 @@
+Date,Team_id,Status,Team_WinRatio,P1_id,p1_level,p1_winratio,P2_id,p2_level,p2_winratio,P3_id,p3_level,p3_winratio,P4_id,p4_level,p4_winratio,P5_id,p5_level,p5_winratio
+21-11-23,teamA,win,0.5,P001,beginner,0.33,P002,intermediate,1.0,P003,professional,0.33,P004,intermediate,0.33,P005,professional,1.0
+21-11-23,teamB,loss,0.75,P006,intermediate,0.0,P007,beginner,0.0,P008,professional,0.0,P009,professional,0.0,P001,beginner,0.33
+22-11-23,teamA,loss,0.5,P001,beginner,0.33,P009,professional,0.0,P003,professional,0.33,P004,intermediate,0.33,P006,intermediate,0.0
+22-11-23,teamC,win,0.25,P011,professional,0.0,P003,professional,0.33,P013,beginner,0.0,P014,beginner,0.0,P015,intermediate,0.0
+23-11-23,teamB,win,0.75,P006,intermediate,0.0,P007,beginner,0.0,P008,professional,0.0,P009,professional,0.0,P004,intermediate,0.33
+23-11-23,teamC,loss,0.25,P011,professional,0.0,P012,professional,0.0,P007,beginner,0.0,P014,beginner,0.0,P015,intermediate,0.0
+21-11-23,teamC,loss,0.25,P006,intermediate,0.0,P012,professional,0.0,P013,beginner,0.0,P014,beginner,0.0,P015,intermediate,0.0
+21-11-23,teamB,win,0.75,P006,intermediate,0.0,P007,beginner,0.0,P008,professional,0.0,P009,professional,0.0,P010,intermediate,0.0
+24-11-23,teamC,loss,0.25,P011,professional,0.0,P008,professional,0.0,P013,beginner,0.0,P014,beginner,0.0,P015,intermediate,0.0
+24-11-23,teamB,win,0.75,P015,intermediate,0.0,P007,beginner,0.0,P008,professional,0.0,P009,professional,0.0,P010,intermediate,0.0
